@@ -1,0 +1,216 @@
+  console.log
+    114.99
+
+      at map (src/index.js:79:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    99.99
+
+      at map (src/index.js:80:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    289.98
+
+      at map (src/index.js:79:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    244.98000000000002
+
+      at map (src/index.js:80:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    379.97
+
+      at map (src/index.js:79:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    324.97
+
+      at map (src/index.js:80:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    479.96000000000004
+
+      at map (src/index.js:79:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    404.96000000000004
+
+      at map (src/index.js:80:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    144.99
+
+      at map (src/index.js:79:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    139.99
+
+      at map (src/index.js:80:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    294.98
+
+      at map (src/index.js:79:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    289.98
+
+      at map (src/index.js:80:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    469.97
+
+      at map (src/index.js:79:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    444.97
+
+      at map (src/index.js:80:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    529.95
+
+      at map (src/index.js:79:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    504.95000000000005
+
+      at map (src/index.js:80:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    124.99
+
+      at map (src/index.js:79:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    124.99
+
+      at map (src/index.js:80:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    239.98
+
+      at map (src/index.js:79:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    234.98
+
+      at map (src/index.js:80:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    384.97
+
+      at map (src/index.js:79:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    374.97
+
+      at map (src/index.js:80:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    534.96
+
+      at map (src/index.js:79:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    524.96
+
+      at map (src/index.js:80:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    124.99
+
+      at map (src/index.js:79:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    109.99
+
+      at map (src/index.js:80:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    269.98
+
+      at map (src/index.js:79:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    239.98000000000002
+
+      at map (src/index.js:80:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    419.97
+
+      at map (src/index.js:79:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    369.97
+
+      at map (src/index.js:80:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    594.96
+
+      at map (src/index.js:79:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    514.96
+
+      at map (src/index.js:80:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    684.95
+
+      at map (src/index.js:79:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    594.95
+
+      at map (src/index.js:80:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    914.94
+
+      at map (src/index.js:79:13)
+          at Array.map (<anonymous>)
+
+  console.log
+    784.94
+
+      at map (src/index.js:80:13)
+          at Array.map (<anonymous>)
+
